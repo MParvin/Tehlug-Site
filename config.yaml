@@ -4,6 +4,7 @@ title: "تهران لاگ"
 theme: "Tehlug-Hugo-Theme"
 
 params:
+  mapView: 0.002
 
   # footer options
   footer:
