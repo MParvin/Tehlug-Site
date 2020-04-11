@@ -2,3 +2,20 @@ baseURL: "https://tehlug.badbakhti.xyz/"
 languageCode: "fa-ir"
 title: "تهران لاگ"
 theme: "Tehlug-Hugo-Theme"
+
+params:
+
+  # footer options
+  footer:
+    items:
+      [
+        { title: "ترلو", url: "https://trello.com/tehlug" },
+        { title: "گیت‌هاب", url: "https://github.com/tehlug" },
+        { title: "تلگرام", url: "https://t.me/TehranLUG" },
+        { title: "گفت‌وگوی زنده", url: "irc://irc.freenode.org/tehlug" },
+        { title: "لاگ‌های دیگر", url: "https://lugs.ir/" },
+        { title: "پرسش‌های پر تکرار", url: "https://tehlug.org/faq" },
+        { title: "لیست پستی", url: "https://tehlug.org/list" },
+        { title: "جلسات آینده", url: "https://tehlug.org/calendar" },
+        { title: "توییتر", url: "https://twitter.com/tehlug" },
+      ]
