@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۲۶۱"
-date: 2020-04-11T21:20:27+04:30
+date: 2020-01-16T00:00:00+04:30
 eventNumber: 261
 eventDate: 1398-10-26
 startTime: 14:00
