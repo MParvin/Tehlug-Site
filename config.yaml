@@ -20,3 +20,18 @@ params:
         { title: "جلسات آینده", url: "https://tehlug.org/calendar" },
         { title: "توییتر", url: "https://twitter.com/tehlug" },
       ]
+
+  menu:
+    items:
+      [
+        { title: "جلسات", url: "/", weight: 1 },
+        { title: "تهران لاگ چیست", url: "/", weight: 1 },
+        { title: "اخبار", url: "/", weight: 1 },
+        { title: "موضوعات", url: "/topic", weight: 1 },
+        { title: "ارائه دهندگان", url: "/speaker", weight: 1 },
+      ]
+
+
+taxonomies:
+  topic: "topic"
+  speaker: "speaker"
