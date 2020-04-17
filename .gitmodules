@@ -1,3 +1,6 @@
 [submodule "themes/Tehlug-Hugo-Theme"]
 	path = themes/Tehlug-Hugo-Theme
 	url = git@github.com:behdad222/Tehlug-Hugo-Theme.git
+[submodule "static"]
+	path = static
+	url = git@github.com:behdad222/Tehlug-Media-Files.git
