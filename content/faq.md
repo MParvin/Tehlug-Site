@@ -1,5 +1,5 @@
 ---
-title: "سوالات پرتکرار"
+title: "پرسش‌های پرتکرار"
 layout: post
 type: post
 ---
