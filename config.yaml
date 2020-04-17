@@ -6,6 +6,10 @@ theme: "Tehlug-Hugo-Theme"
 params:
   mapView: 0.002
 
+  excludedTypes:
+    [
+      gallery
+    ]
   # footer options
   footer:
     items:
@@ -24,7 +28,7 @@ params:
   menu:
     items:
       [
-        { title: "جلسات", url: "/", weight: 1 },
+        { title: "جلسات", url: "/events", weight: 1 },
         { title: "تهران لاگ چیست", url: "/", weight: 1 },
         { title: "اخبار", url: "/", weight: 1 },
         { title: "موضوعات", url: "/topic", weight: 1 },
