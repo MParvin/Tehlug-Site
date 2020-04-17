@@ -34,7 +34,7 @@ params:
         { title: "ماستادون", url: "https://mastodon.social/@tehlug/" },
         { title: "توییتر", url: "https://twitter.com/tehlug" },
         { title: "اینستاگرام", url: "https://instagram.com/tehlug" },
-        { title: "ایوند", url: "https://evand.com/events/tehlug" },
+        { title: "ایوند", url: "https://evand.com/tehlug" },
       ]
 
 taxonomies:

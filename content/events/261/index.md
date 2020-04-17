@@ -8,7 +8,7 @@ eventDate: 1398-10-26
 startTime: 14:00
 endTime: 18:00
 address: "میدان آزادی، ابتدای بزرگراه شهید لشکری، نبش بیمه ۳، پلاک ۳۱، کارخانه نوآوری"
-registerLink: https://evand.com/TehLUG
+registerLink: https://evand.com/events/tehlug261
 speaker: [دانیال بهزادی]
 topic: [انجمن‌های نرم‌افزار آزاد]
 lat: 35.6996514502632

@@ -8,7 +8,7 @@ eventDate: 1398-9-28
 startTime: 11:30
 endTime: 15:30
 address: "میدان آزادی، ابتدای بزرگراه شهید لشکری، نبش بیمه ۳، پلاک ۳۱، کارخانه نوآوری"
-registerLink: https://evand.com/TehLUG
+registerLink: https://evand.com/events/tehlug260
 speaker: [محمد پروین, بحث آزاد]
 topic: [شبکه Private, ثبت حقوقی]
 lat: 35.6996514502632

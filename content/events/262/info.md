@@ -8,7 +8,7 @@ eventDate: 1398-11-24
 startTime: 15:30
 endTime: 17:00
 address: "میدان آزادی، ابتدای بزرگراه شهید لشکری، نبش بیمه ۳، پلاک ۳۱، کارخانه نوآوری"
-registerLink: https://evand.com/TehLUG
+registerLink: https://evand.com/events/tehlug262
 speaker: [محمدرضا حقیری, بحث آزاد]
 topic: [Ruby on Rails, هماهنگی جلسات]
 lat: 35.6996514502632
