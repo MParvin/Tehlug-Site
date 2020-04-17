@@ -6,36 +6,35 @@ theme: "Tehlug-Hugo-Theme"
 params:
   mapView: 0.002
 
-  excludedTypes:
-    [
-      gallery
-    ]
-  # footer options
-  footer:
-    items:
-      [
-        { title: "ترلو", url: "https://trello.com/tehlug" },
-        { title: "گیت‌هاب", url: "https://github.com/tehlug" },
-        { title: "تلگرام", url: "https://t.me/TehranLUG" },
-        { title: "گفت‌وگوی زنده", url: "irc://irc.freenode.org/tehlug" },
-        { title: "لاگ‌های دیگر", url: "https://lugs.ir/" },
-        { title: "پرسش‌های پر تکرار", url: "https://tehlug.org/faq" },
-        { title: "لیست پستی", url: "/maillist" },
-        { title: "جلسات آینده", url: "https://tehlug.org/calendar" },
-        { title: "توییتر", url: "https://twitter.com/tehlug" },
-      ]
+  excludedTypes: [gallery]
 
   menu:
     items:
       [
-        { title: "جلسات", url: "/events", weight: 1 },
-        { title: "تهران‌لاگ", url: "/tehlug", weight: 1 },
-        { title: "اخبار", url: "/", weight: 1 },
-        { title: "موضوعات", url: "/topic", weight: 1 },
-        { title: "ارائه دهندگان", url: "/speaker", weight: 1 },
-        { title: "تصاویر", url: "/images", weight: 1 },
+        { title: "تهران‌لاگ", url: "/tehlug" },
+        { title: "جلسات", url: "/events" },
+        { title: "جلسات آینده", url: "/calendar" },
+        { title: "اخبار", url: "/" },
+        { title: "موضوعات", url: "/topic" },
+        { title: "ارائه دهندگان", url: "/speaker" },
+        { title: "تصاویر", url: "/images" },
       ]
 
+  footer:
+    items:
+      [
+        { title: "پرسش‌های پر تکرار", url: "https://tehlug.org/faq" },
+        { title: "لیست پستی", url: "/maillist" },
+        { title: "لاگ‌های دیگر", url: "https://lugs.ir/" },
+        { title: "گیت‌هاب", url: "https://github.com/tehlug" },
+        { title: "ترلو", url: "https://trello.com/tehlug" },
+        { title: "گفت‌وگوی زنده", url: "irc://irc.freenode.org/tehlug" },
+        { title: "تلگرام", url: "https://t.me/TehranLUG" },
+        { title: "ماستادون", url: "https://mastodon.social/@tehlug/" },
+        { title: "توییتر", url: "https://twitter.com/tehlug" },
+        { title: "اینستاگرام", url: "https://instagram.com/tehlug" },
+        { title: "ایوند", url: "https://evand.com/events/tehlug" },
+      ]
 
 taxonomies:
   topic: "topic"
