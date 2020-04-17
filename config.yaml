@@ -2,6 +2,7 @@ baseURL: "https://tehlug.badbakhti.xyz/"
 languageCode: "fa-ir"
 title: "تهران لاگ"
 theme: "Tehlug-Hugo-Theme"
+paginate: 3
 
 params:
   mapView: 0.002
