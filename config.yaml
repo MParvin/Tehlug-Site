@@ -20,7 +20,7 @@ params:
         { title: "گفت‌وگوی زنده", url: "irc://irc.freenode.org/tehlug" },
         { title: "لاگ‌های دیگر", url: "https://lugs.ir/" },
         { title: "پرسش‌های پر تکرار", url: "https://tehlug.org/faq" },
-        { title: "لیست پستی", url: "https://tehlug.org/list" },
+        { title: "لیست پستی", url: "/maillist" },
         { title: "جلسات آینده", url: "https://tehlug.org/calendar" },
         { title: "توییتر", url: "https://twitter.com/tehlug" },
       ]
