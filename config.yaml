@@ -29,7 +29,7 @@ params:
     items:
       [
         { title: "جلسات", url: "/events", weight: 1 },
-        { title: "تهران لاگ چیست", url: "/", weight: 1 },
+        { title: "تهران‌لاگ", url: "/tehlug", weight: 1 },
         { title: "اخبار", url: "/", weight: 1 },
         { title: "موضوعات", url: "/topic", weight: 1 },
         { title: "ارائه دهندگان", url: "/speaker", weight: 1 },
