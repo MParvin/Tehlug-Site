@@ -29,6 +29,7 @@ params:
         { title: "اخبار", url: "/", weight: 1 },
         { title: "موضوعات", url: "/topic", weight: 1 },
         { title: "ارائه دهندگان", url: "/speaker", weight: 1 },
+        { title: "تصاویر", url: "/images", weight: 1 },
       ]
 
 
