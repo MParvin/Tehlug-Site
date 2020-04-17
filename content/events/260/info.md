@@ -1,6 +1,8 @@
 ---
 title: "جلسه ۲۶۰"
 date: 2019-12-19T00:00:00+04:30
+layout: event
+type: event
 eventNumber: 260
 eventDate: 1398-9-28
 startTime: 11:30
