@@ -29,3 +29,6 @@ location: "زاویه"
 
 ساعت ۱۶ الی ۱۷:۳۰ گروه کاربران پایتون تهران
 ارائه گروه کاربران پایتون تهران توسط آقای محمد حسین حاجی وندی در مورد saltstack و راه کار های خودکارسازی شبکه خواهد بود.
+
+[اسلاید](https://docs.google.com/presentation/d/1kuxNdsqBKgZmjUYHzZmN423go1uD0_z72vtqCkyrFrY/edit)  
+[ویدیو](https://youtu.be/VzgvnmH20n0)
