@@ -1,10 +1,11 @@
 baseURL: "https://tehlug.badbakhti.xyz/"
 languageCode: "fa-ir"
-title: "تهران لاگ"
+title: "تهران‌لاگ"
 theme: "Tehlug-Hugo-Theme"
 paginate: 3
 
 params:
+  subtitle: "گروه کاربران لینوکس تهران"
   mapView: 0.002
 
   excludedTypes: [gallery]
