@@ -10,7 +10,7 @@ endTime: 19:00
 address: "میدان آزادی، ابتدای بزرگراه شهید لشکری، نبش بیمه ۳، پلاک ۳۱، کارخانه نوآوری"
 registerLink: https://evand.com/events/tehlug255
 speaker: [وحید اشرفیان, اتابک آکسون]
-topic: [DevOps, هماهنگی-جلسات]
+topic: [DevOps, هماهنگی جلسات]
 lat: 35.6996514502632
 lng: 51.3196277618408
 location: "زاویه"
