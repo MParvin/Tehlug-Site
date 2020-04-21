@@ -3,6 +3,7 @@ languageCode: "fa-ir"
 title: "تهران‌لاگ"
 theme: "Tehlug-Hugo-Theme"
 paginate: 3
+favicon: favicon.ico
 
 params:
   subtitle: "گروه کاربران لینوکس تهران"
