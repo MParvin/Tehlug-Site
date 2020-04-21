@@ -14,13 +14,13 @@ params:
   menu:
     items:
       [
-        { title: "تهران‌لاگ", url: "/tehlug" },
-        { title: "جلسات", url: "/events" },
-        { title: "جلسات آینده", url: "/calendar" },
-        { title: "اخبار", url: "/" },
-        { title: "موضوعات", url: "/topic" },
-        { title: "ارائه دهندگان", url: "/speaker" },
-        { title: "تصاویر", url: "/images" },
+        { title: "تهران‌لاگ", url: "/tehlug", name: "", name: "tehlug" },
+        { title: "جلسات", url: "/events", name: "events" },
+        { title: "جلسات آینده", url: "/calendar", name: "calendar" },
+        { title: "اخبار", url: "/", name: "news" },
+        { title: "موضوعات", url: "/topic", name: "topic" },
+        { title: "ارائه دهندگان", url: "/speaker", name: "speaker" },
+        { title: "تصاویر", url: "/images", name: "images" },
       ]
 
   footer:
