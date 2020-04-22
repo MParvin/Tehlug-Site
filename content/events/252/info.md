@@ -3,7 +3,7 @@ title: "جلسه ۲۵۲"
 date: 2019-04-11T00:00:00+04:30
 layout: event
 type: event
-eventNumber: 253
+eventNumber: 252
 eventDate: 1398-1-22
 startTime: 14:00
 endTime: 18:00

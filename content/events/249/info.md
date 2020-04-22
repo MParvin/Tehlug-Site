@@ -3,7 +3,7 @@ title: "جلسه ۲۴۹"
 date: 2019-01-17T00:00:00+04:30
 layout: event
 type: event
-eventNumber: 250
+eventNumber: 249
 eventDate: 1397-10-27
 startTime: 15:00
 endTime: 18:00
