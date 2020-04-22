@@ -9,12 +9,12 @@ startTime: 15:00
 endTime: 18:00
 address: "خیابان طرشت، خیابان گلاب، پلاک ۵۹، طبقه اول"
 registerLink: https://evand.com/events/tehlug248
-speaker: [مسعود آبکنار]
-topic: [Next Cloud]
+speakers: [مسعود آبکنار]
+topics: [Next Cloud]
 lat: 35.717723
 lng: 51.341266
-location: "سریر"
-video: [https://archive.org/details/TEHLUG249NextcloudMasoudAbkenar720p]
+locations: [سریر]
+videos: [https://archive.org/details/TEHLUG249NextcloudMasoudAbkenar720p]
 ---
 جلسهٔ ۲۴۸ گروه کاربران گنو/لینوکس تهران در روز پنجشنبه، ۲۹ آذر ماه از ساعت ۱۵ الی ۱۸ در شرکت سریر به آدرس : "خیابان طرشت، خیابان گلاب، پلاک ۵۹، طبقه اول" برگزار می‌گردد. شرکت در این رویداد همانند جلسات گذشته برای کلیه علاقه‌مندان، آزاد و رایگان می‌باشد.
 

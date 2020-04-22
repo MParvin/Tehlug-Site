@@ -19,9 +19,10 @@ params:
         { title: "جلسات", url: "/events", name: "events" },
         { title: "جلسات آینده", url: "/calendar", name: "calendar" },
         { title: "اخبار", url: "/", name: "news" },
-        { title: "موضوعات", url: "/topic", name: "topic" },
-        { title: "ارائه دهندگان", url: "/speaker", name: "speaker" },
+        { title: "موضوعات", url: "/topics", name: "topics" },
+        { title: "ارائه دهندگان", url: "/speakers", name: "speakers" },
         { title: "تصاویر", url: "/images", name: "images" },
+        { title: "ویدیو", url: "/videos", name: "videos" },
       ]
 
   footer:
@@ -41,6 +42,7 @@ params:
       ]
 
 taxonomies:
-  topic: "topic"
-  speaker: "speaker"
-  location: "location"
+  topics: "topics"
+  speakers: "speakers"
+  locations: "locations"
+  videos: "videos"
