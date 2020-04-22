@@ -4,9 +4,9 @@ date: 2019-02-14T00:00:00+04:30
 layout: event
 type: event
 eventNumber: 250
-eventDate: 1397-12-23
-startTime: 16:00
-endTime: 19:00
+eventDate: 1397-11-25
+startTime: 15:00
+endTime: 18:00
 address: "جهت اطلاع از مکان دقیق در روز برگزاری، با شماره تلفن 09129268596 ( فیاض زاده ) تماس حاصل فرمایید."
 registerLink: https://evand.com/events/tehlug250
 speaker: [بحث آزاد] 
