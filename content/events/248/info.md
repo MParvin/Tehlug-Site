@@ -4,7 +4,7 @@ date: 2018-12-20T00:00:00+04:30
 layout: event
 type: event
 eventNumber: 248
-eventDate: 1398-9-29
+eventDate: 1397-9-29
 startTime: 15:00
 endTime: 18:00
 address: "خیابان طرشت، خیابان گلاب، پلاک ۵۹، طبقه اول"

@@ -4,7 +4,7 @@ date: 2018-11-15T00:00:00+04:30
 layout: event
 type: event
 eventNumber: 247
-eventDate: 1398-8-24
+eventDate: 1397-8-24
 startTime: 15:30
 endTime: 19:00
 address: "خیابان طرشت، خیابان گلاب، پلاک ۵۹، طبقه اول"

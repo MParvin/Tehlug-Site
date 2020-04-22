@@ -4,7 +4,7 @@ date: 2018-08-16T00:00:00+04:30
 layout: event
 type: event
 eventNumber: 245
-eventDate: 1398-5-25
+eventDate: 1397-5-25
 startTime: 14:30
 endTime: 19:00
 address: "خیابان بهشتی، بین میرعماد و سرافراز پلاک ۳۴۰ ساختمان چهارباغ طبقه دوم شرکت رهنما"

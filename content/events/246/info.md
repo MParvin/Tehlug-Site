@@ -4,7 +4,7 @@ date: 2018-09-13T00:00:00+04:30
 layout: event
 type: event
 eventNumber: 246
-eventDate: 1398-6-22
+eventDate: 1397-6-22
 startTime: 15:30
 endTime: 19:00
 address: "خیابان طرشت، خیابان گلاب، پلاک ۵۹، طبقه اول"
