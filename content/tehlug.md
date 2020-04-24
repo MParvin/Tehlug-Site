@@ -1,6 +1,6 @@
 ---
 title: "تهران لاگ"
-layout: post
+layout: mainpage
 type: post
 ---
 ### تهران‌لاگ چیست؟
