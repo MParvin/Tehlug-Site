@@ -14,8 +14,6 @@ topics: [DevOps, هماهنگی جلسات]
 lat: 35.6996514502632
 lng: 51.3196277618408
 locations: [زاویه]
-videos: [https://youtu.be/VzgvnmH20n0]
-slides: [https://docs.google.com/presentation/d/1kuxNdsqBKgZmjUYHzZmN423go1uD0_z72vtqCkyrFrY/]
 ---
 جلسهٔ ۲۵۵ گروه کاربران گنو/لینوکس تهران، روز پنجشنبه ۲۰ تیر ماه از ساعت ۱۵ تا ۱۹ در فضای کاری مشترک زاویه واقع در « میدان آزادی، ابتدای بزرگراه شهید لشکری، نبش بیمه ۳، پلاک ۳۱، کارخانه نوآوری » برگزار می‌شود.
 شرکت در این رویداد همانند جلسات گذشته برای کلیه علاقه‌مندان، آزاد و رایگان است.
@@ -27,3 +25,7 @@ slides: [https://docs.google.com/presentation/d/1kuxNdsqBKgZmjUYHzZmN423go1uD0_z
 
 ساعت ۱۶ الی ۱۷:۳۰ گروه کاربران پایتون تهران
 ارائه گروه کاربران پایتون تهران توسط آقای محمد حسین حاجی وندی در مورد saltstack و راه کار های خودکارسازی شبکه خواهد بود.
+
+اسلاید و ویدیو ارائه وحید اشرفیان:
+[ویدیو](https://youtu.be/VzgvnmH20n0)،
+[اسلاید](https://docs.google.com/presentation/d/1kuxNdsqBKgZmjUYHzZmN423go1uD0_z72vtqCkyrFrY/)
