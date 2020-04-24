@@ -10,7 +10,7 @@ endTime: 19:00
 address: "خیابان کارگر شمالی، بالاتر از بزرگراه جلال آل‌احمد، پردیس دانشکده‌های فنّی دانشگاه تهران، دانشکدهٔ مهندسی نفت، طبقهٔ ۵"
 registerLink: https://evand.com/events/tehlug235
 speakers: [مسعود صدرنژاد]
-topics: [AntiPattern]
+topics: [مهندسی نرم‌افزار]
 lat: 35.726110
 lng: 51.384858
 locations: [آواتک]

@@ -10,7 +10,7 @@ endTime: 19:00
 address: "خیابان کارگر شمالی، بالاتر از بزرگراه جلال آل‌احمد، پردیس دانشکده‌های فنّی دانشگاه تهران، دانشکدهٔ مهندسی نفت، طبقهٔ ۵"
 registerLink: https://evand.com/events/tehlug236
 speakers: [۱۱ ۱۱, کیوان هدایتی, محمود مسیح تهرانی, مسعود صدرنژاد]
-topics: [floydhub, Postgres, Release strategy, MV*‎]
+topics: [floydhub, Postgres, Release strategy, مهندسی نرم‌افزار]
 lat: 35.726110
 lng: 51.384858
 locations: [آواتک]
