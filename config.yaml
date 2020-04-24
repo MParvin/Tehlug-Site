@@ -28,7 +28,7 @@ params:
   footer:
     items:
       [
-        { title: "پرسش‌های پر تکرار", url: "https://tehlug.org/faq" },
+        { title: "پرسش‌های پر تکرار", url: "/faq" },
         { title: "لیست پستی", url: "/maillist" },
         { title: "لاگ‌های دیگر", url: "https://lugs.ir/" },
         { title: "گیت‌هاب", url: "https://github.com/tehlug" },
