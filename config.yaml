@@ -22,7 +22,6 @@ params:
         { title: "موضوعات", url: "/topics", name: "topics" },
         { title: "ارائه دهندگان", url: "/speakers", name: "speakers" },
         { title: "تصاویر", url: "/images", name: "images" },
-        { title: "ویدیو", url: "/videos", name: "videos" },
       ]
 
   footer:
