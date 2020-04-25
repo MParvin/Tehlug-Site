@@ -1,6 +1,6 @@
 ---
 title: "لیست پستی"
-layout: post
+layout: mainpage
 type: post
 ---
 ## لیست پستی چیست؟
