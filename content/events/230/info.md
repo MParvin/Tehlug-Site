@@ -8,7 +8,7 @@ eventDate: 1395-11-21
 startTime: 13:00
 endTime: 18:00
 address: "خیابان کارگر شمالی، بالاتر از بزرگراه جلال آل‌احمد، پردیس دانشکده‌های فنّی دانشگاه تهران، دانشکدهٔ مهندسی نفت، طبقهٔ ۵"
-registerLink: https://evand.com/events/tehlug23
+registerLink: https://evand.com/events/tehlug230
 speakers: [مرتضی آقابیگی, محمدرضا کمالی‌فرد, سعید وایقان, آرمین قاسمی]
 topics: [ScanQt, Gitlab, APP/API, امنیت]
 lat: 35.726110
