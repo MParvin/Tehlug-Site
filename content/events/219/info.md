@@ -4,7 +4,7 @@ date: 2015-08-06T00:00:00+04:30
 layout: event
 type: event
 eventNumber: 219
-eventDate: 1394-05-15
+eventDate: 1394-5-15
 startTime: 9:00
 endTime: 13:30
 address: "تهران - خیابان ملاصدرا- خ شیراز شمالی - خ حکیم اعظم - پلاک ۳۰ - موسسه آموزش عالی خاتم"
