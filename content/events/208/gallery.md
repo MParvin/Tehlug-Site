@@ -1,6 +1,6 @@
 ---
-title: "تصاویر جلسه ۲۰۹"
+title: "تصاویر جلسه ۲۰۸"
 layout: gallery
-eventNumber: 209
+eventNumber: 208
 type: gallery
 ---
