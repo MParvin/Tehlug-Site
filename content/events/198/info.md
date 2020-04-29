@@ -5,8 +5,8 @@ layout: event
 type: event
 eventNumber: 198
 eventDate: 1393-3-13
-speakers: [ابتسام آخرتی, صادق شمشیری, بحث آزاد]
-topics: [مقاله علمی, کسب و کار]
+speakers: [مجید عظیمی, سعید علیجانی, بحث آزاد]
+topics: [CoreOS, نرم افزار آزاد]
 ---
 در این جلسه آقای مجید عظیمی به توضیح در مورد سیستم عامل [CoreOS](http://en.wikipedia.org/wiki/CoreOS) پرداختند. همچنین پس از آن آقای سعید علیجانی مدیریت بحث آزاد کاربران در مورد "راهکار های تولید [نرم افزار آزاد](/events/presentations/198/freeSoftware.pdf) در ایران" را بر عهده گرفتند.  
 [اسلاید](/events/presentations/198/coreos.odp)  
