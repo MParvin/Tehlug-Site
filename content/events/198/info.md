@@ -10,6 +10,8 @@ topics: [CoreOS, نرم افزار آزاد]
 ---
 در این جلسه آقای مجید عظیمی به توضیح در مورد سیستم عامل [CoreOS](http://en.wikipedia.org/wiki/CoreOS) پرداختند. همچنین پس از آن آقای سعید علیجانی مدیریت بحث آزاد کاربران در مورد "راهکار های تولید [نرم افزار آزاد](/events/presentations/198/freeSoftware.pdf) در ایران" را بر عهده گرفتند.  
 [اسلاید](/events/presentations/198/coreos.odp)  
+[صدای ارائه](https://archive.org/details/tehlug_198_coreos)  
+[صدای بحث آزاد](https://archive.org/details/tehlug_198_interactive)  
 
 شرکت کنندگان:
 * بهنام توکلی کرمانی
