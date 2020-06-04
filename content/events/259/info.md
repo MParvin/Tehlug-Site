@@ -10,7 +10,7 @@ endTime: 18:00
 address: "میدان آزادی، ابتدای بزرگراه شهید لشکری، نبش بیمه ۳، پلاک ۳۱، کارخانه نوآوری"
 registerLink: https://evand.com/events/tehlug259
 speakers: [محمد مسلمی, مهدی ملاکی]
-topics: [نرم‌افزار آزاد در حوزه صنعت, Kubernetes]
+topics: [نرم‌افزار آزاد, Kubernetes]
 lat: 35.6996514502632
 lng: 51.3196277618408
 locations: [زاویه]

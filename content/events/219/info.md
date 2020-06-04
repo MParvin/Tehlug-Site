@@ -9,7 +9,7 @@ startTime: 9:00
 endTime: 13:30
 address: "تهران - خیابان ملاصدرا- خ شیراز شمالی - خ حکیم اعظم - پلاک ۳۰ - موسسه آموزش عالی خاتم"
 speakers: [دانیال بهزادی, رضا محمدی, امیر کریمی, فرود غفوری, سعید رسولی, فرید دهقان, پیام صادری, حمیدرضا سلیمانی, افشین مهربانی, سعید تقوی, علیرضا حسین‌نژاد]
-topics: [گام‌های نخست آزادی, Android, Scala, Go, Git, Big data, طراحی وب, Create Your Own Language, js, Kernel, کسب درآمد]
+topics: [گام‌های نخست آزادی, Android, Scala, Go, Version control, Big data, طراحی وب, Create Your Own Language, js, Kernel, کسب درآمد]
 lat: 35.758881
 lng: 51.400816
 locations: [خاتم]
