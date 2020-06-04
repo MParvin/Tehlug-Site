@@ -7,7 +7,7 @@ eventNumber: 169
 eventDate: 1391-12-22
 address: "خیابان ولیعصر - پایین تر از خیابان شهید وحید دستگردی (ظفر) - خیابان شهید علی یزدان پناه - ساختمان شماره ۲ وزرات ارتباطات"
 speakers: [سعید وایقان, مهدی صادقی, سید مسعود صدرنژاد]
-topics: [خبر ,UEFI, Anonymous Group]
+topics: [اخبار ,UEFI, Anonymous Group]
 lat: 35.769148
 lng: 51.411937
 locations: [وزارت ارتباطات]
