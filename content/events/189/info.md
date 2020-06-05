@@ -13,5 +13,5 @@ participants: [بهنام توکلی کرمانی, احسان حسینی, حمی
 [اسلاید](https://www.slideshare.net/dandiephouse/a-great-api-is-hard-to-find?from_search=2)  
 [صدا](https://archive.org/details/tehlug_189_api)  
 
-همچنین آقای [فُرود غفوری](http://cyberrabbits.net/) مدیریت بحث آزاد در رابطه با حمایت و پشتیبانی از نرم‌افزارهای آزاد را بر عهده گرفتند.
+همچنین آقای [فُرود غفوری](http://cyberrabbits.net/) مدیریت بحث آزاد در رابطه با حمایت و پشتیبانی از نرم‌افزارهای آزاد را بر عهده گرفتند.  
 [صدا](https://archive.org/details/tehlug_189_interactive_free_software)   
