@@ -7,7 +7,7 @@ eventNumber: 151
 eventDate: 1391-1-23
 startTime: 18:00
 endTime: 20:00
-speakers: [اسماعیلی]
+speakers: [ایریکس]
 topics: [Joomla]
 locations: [داده پردازی]
 ---

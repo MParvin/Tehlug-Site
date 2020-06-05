@@ -5,7 +5,7 @@ layout: event
 type: event
 eventNumber: 207
 eventDate: 1393-9-3
-speakers: [بحث آزاد]
-topics: [Version control, فونت]
+speakers: [بحث آزاد, بهداد عابدی]
+topics: [Version control, Font]
 ---
 در این جلسه ابتدا در مورد سیستم‌های مدیریت سورس و ورژن کنترل صحبت و سپس بحث آزادی با موضوع فونت‌های آزاد میان حاضرین در جلسه برقرار شد.

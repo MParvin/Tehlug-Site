@@ -7,7 +7,7 @@ eventNumber: 148
 eventDate: 1390-9-22
 startTime: 18:00
 endTime: 20:00
-speakers: [یه‌انقلابی]
+speakers: [یه انقلابی]
 topics: [نرم‌افزار آزاد]
 locations: [داده پردازی]
 ---

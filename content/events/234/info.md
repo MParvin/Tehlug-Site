@@ -9,7 +9,7 @@ startTime: 14:30
 endTime: 19:00
 address: "خیابان کارگر شمالی، بالاتر از بزرگراه جلال آل‌احمد، پردیس دانشکده‌های فنّی دانشگاه تهران، دانشکدهٔ مهندسی نفت، طبقهٔ ۵"
 registerLink: https://evand.com/events/tehlug234
-speakers: [محمدمعین حسینی منش, صالح خواجه دلویی, سالار مقدم, مسعود صدرنژاد]
+speakers: [محمدمعین حسینی منش, صالح خواجه دلویی, سالار مقدم, سید محمد مسعود صدرنژاد]
 topics: [Bitcoin, Evolution of Linux operating system network, Kubernetes, مهندسی نرم‌افزار]
 lat: 35.726110
 lng: 51.384858
