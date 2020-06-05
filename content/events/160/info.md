@@ -9,7 +9,7 @@ startTime: 18:00
 endTime: 20:00
 address: "یوسف آباد، خیابان ابن سینا، نبش کوچه ۳۱، موسسه کهکشان نور"
 speakers: [محسن پهلوان‌زاده]
-topics: [ایران‌تاکس, Internet]
+topics: [ایران تاکس, Internet]
 lat: 35.734588
 lng: 51.408275
 locations: [کهکشان نور]
