@@ -24,7 +24,7 @@ jobs:
         run: hugo --minify
         
       - name: CNAME config
-        run: echo "new.tehlug.org" > ./public/CNAME
+        run: echo "tehlug.org" > ./public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
