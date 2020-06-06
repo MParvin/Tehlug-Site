@@ -7,7 +7,7 @@ eventNumber: 176
 eventDate: 1392-4-18
 address: "خیابان ولیعصر - پایین تر از خیابان شهید وحید دستگردی (ظفر) - خیابان شهید علی یزدان پناه - ساختمان شماره ۲ وزرات ارتباطات"
 speakers: [سید مجید عظیمی, بحث آزاد, رها فرخی]
-topics: [Dns, Community]
+topics: [Message Oriented Middleware, Community]
 lat: 35.769148
 lng: 51.411937
 locations: [وزارت ارتباطات]
