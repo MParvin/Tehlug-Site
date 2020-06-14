@@ -21,12 +21,11 @@ locations: [زاویه]
 ساعت ۱۵ الی ۱۶:۳۰ گروه کاربران لینوکس تهران  
 ارائه توسط آقای وحید اشرفیان با عنوان DevOps the wrong way خواهد بود.  
 توضیحات: این ارائه بر مبنای تجریات خود شخص در شرکت‌هایی که مشغول بوده و بر مبنای اصول DevOps صحبت میکنند.  
+[ویدیو](https://archive.org/details/tehlug_255_vahid_ashrafian_devops)  
+[اسلاید](https://docs.google.com/presentation/d/1kuxNdsqBKgZmjUYHzZmN423go1uD0_z72vtqCkyrFrY/)  
+[دانلود اسلاید](/events/presentations/255/devops_the_wrong_way.odp)  
+
 ارائه دوم توسط اتابک آکسون مسئول هماهنگی فضای اشتراکی زاویه در مورد مشکلات پیش آمده خواهد بود.
 
 ساعت ۱۶ الی ۱۷:۳۰ گروه کاربران پایتون تهران  
 ارائه گروه کاربران پایتون تهران توسط آقای محمد حسین حاجی وندی در مورد saltstack و راه کار های خودکارسازی شبکه خواهد بود.
-
-اسلاید و ویدیو ارائه وحید اشرفیان:  
-[ویدیو](https://youtu.be/VzgvnmH20n0)  
-[اسلاید](https://docs.google.com/presentation/d/1kuxNdsqBKgZmjUYHzZmN423go1uD0_z72vtqCkyrFrY/)  
-[دانلود اسلاید](/events/presentations/255/devops_the_wrong_way.odp)  

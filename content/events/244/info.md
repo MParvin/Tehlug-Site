@@ -24,7 +24,8 @@ locations: [فینووا]
 
 از ساعت ۱۶:۳۰ الی ۱۹ جلسه گروه کاربران لینوکس تهران برگزار خواهد شد.  
 ارائهٔ اول توسّط آقای کیان جلالی با موضوع Introduction to Akka (actor model) ,and Reactive systems خواهد بود.  
-[ویدیو](https://www.youtube.com/playlist?list=PL0VCey_90Ht7Bln71vym9gdf9cuUgrT0L)  
+[ویدیو بخش ۱](https://archive.org/details/tehlug_244_kian_jalali_akka)  
+[ویدیو بخش ۲](https://archive.org/details/tehlug_244_kian_jalali_akka_2)  
 [نمونه کد](https://github.com/hajjijo/tlug-akka-workshop)  
 [اسلاید](https://docs.google.com/presentation/d/10aRzLZBKgIXxPBSWdNvNLQsXKm0d-BBcHlXJCwOWcxM/edit#slide=id.gc6f73a04f_0_0)  
 [دانلود اسلاید](/events/presentations/244/akka.odp)  
