@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۱۵۶"
-date: 2012-09-27T00:00:00+04:30
+date: 2012-08-08T00:00:00+04:30
 layout: event
 type: event
 eventNumber: 156
