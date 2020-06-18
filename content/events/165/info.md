@@ -6,8 +6,8 @@ type: event
 eventNumber: 165
 eventDate: 1391-10-26
 address: "یوسف آباد، خیابان ابن سینا، نبش کوچه ۳۱، موسسه کهکشان نور"
-speakers: [خبر, افشین مهربانی, محسن پهلوان‌زاده]
-topics: [Socket, UEFI]
+speakers: [افشین مهربانی, محسن پهلوان‌زاده]
+topics: [خبر, Socket, UEFI]
 lat: 35.734588
 lng: 51.408275
 locations: [کهکشان نور]

@@ -9,7 +9,7 @@ startTime: 13:00
 endTime: 18:00
 address: "خیابان کارگر شمالی، بالاتر از بزرگراه جلال آل‌احمد، پردیس دانشکده‌های فنّی دانشگاه تهران، دانشکدهٔ مهندسی نفت، طبقهٔ ۵"
 registerLink: https://evand.com/events/tehlug227
-speakers: [جواد ارجمندی, محمد رضا حقیری, علیرضا اطهاری, علیرضا فریدونی]
+speakers: [جواد ارجمندی, محمدرضا حقیری, علیرضا اطهاری, علیرضا فریدونی]
 topics: [Telegram Bot, Sinatra, Electron, Secure Coding]
 lat: 35.726110
 lng: 51.384858
