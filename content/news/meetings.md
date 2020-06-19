@@ -1,6 +1,7 @@
 ---
 title: "سری جدید جلسات"
 date: 2011-02-13T00:00:00+04:30
+persianDate: 1389-11-24
 layout: post
 type: news
 ---

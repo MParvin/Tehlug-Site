@@ -1,6 +1,7 @@
 ---
 title: "نسخه جدید سایت راه‌اندازی شد"
 date: 2011-02-06T00:00:00+04:30
+persianDate: 1389-11-17
 layout: post
 type: news
 ---

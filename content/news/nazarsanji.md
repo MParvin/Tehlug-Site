@@ -1,6 +1,7 @@
 ---
 title: "نظر سنجی"
 date: 2017-04-10T00:00:00+04:30
+persianDate: 1396-1-21
 layout: post
 type: news
 ---
