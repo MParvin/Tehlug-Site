@@ -9,8 +9,8 @@ startTime: 18:00
 endTime: 20:00
 address: "محل برگزاری: هلدینگ آرنیکا، کامرانیه جنوبی، بن بست مریم، پلاک ۱"
 registerLink: https://evand.com/events/tehlug265
-speakers: []
-topics: []
+speakers: [نیما حیدری نسب، یاشار اسمعیل دخت]
+topics: [MySQL Sharding Using Vitess, انواع storageها و ویژگی‌ها و ساختار ceph برای سازمان‌های مختلف با کاربردهای گسترده]
 lat: 35.79920580694606
 lng: 51.46060835404488
 locations: [هلدینگ آرنیکا]
