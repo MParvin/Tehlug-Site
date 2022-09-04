@@ -7,7 +7,7 @@ eventNumber: 265
 eventDate: 1401-6-15
 startTime: 18:00
 endTime: 20:00
-address: "محل برگزاری: کامرانیه جنوبی، بن بست مریم، پلاک ۱، هلدینگ آرنیکا"
+address: "محل برگزاری: خیابان کلاهدوز (دولت)، چهارراه قنات، جنب یزدباف"
 registerLink: https://evand.com/events/tehlug265
 speakers: [نیما حیدری نسب، یاشار اسمعیل دخت]
 topics: [database,storage]
