@@ -9,7 +9,7 @@ startTime: 18:00
 endTime: 20:00
 address: "محل برگزاری: خیابان کلاهدوز (دولت)، چهارراه قنات، جنب یزدباف"
 registerLink: https://evand.com/events/tehlug265
-speakers: [نیما حیدری نسب، یاشار اسمعیل دخت]
+speakers: [نیما حیدری نسب, یاشار اسمعیل دخت]
 topics: [database,storage]
 lat: 35.78037809997568
 lng: 51.451260805462596
