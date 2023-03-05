@@ -10,7 +10,7 @@ endTime: 20:00
 address: "تهران خیابان آزادی، خیابان حبیب الله، خیابان قاسمی (ضلع شمالی دانشگاه شریف)، جنب جهاد دانشگاهی شریف، مرکز باکس"
 registerLink: https://evand.com/events/tehlug267
 speakers: [بحث آزاد]
-topics: [آزادی‌های دیجیتال]
+topics: [دورهمی]
 lat: 35.7057371
 lng: 51.3487261
 locations: [باکس]
