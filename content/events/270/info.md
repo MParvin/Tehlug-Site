@@ -10,7 +10,7 @@ endTime: 20:00
 address: "هفت تیر، خیابان قائم مقام، میدان شعاع، خیابان خدری، بعد از چهارراه سنایی،  پلاک ۳۱، سالن همایش‌های یاس"
 registerLink: https://evand.com/events/tehlug270
 speakers: [میلاد کوهی, یاشار اسمعیل‌دخت]
-topics: [Development, Data center]
+topics: [مهندسی نرم‌افزار, Data center]
 lat: 35.720612
 lng: 51.418212
 locations: [نتواریوم]
