@@ -15,7 +15,7 @@ params:
   menu:
     items:
       [
-        { title: "تهران‌لاگ", url: "/tehlug", name: "", name: "tehlug" },
+        { title: "تهران‌لاگ", url: "/about-tehlug", name: "", name: "about-tehlug" },
         { title: "جلسات", url: "/events", name: "events" },
         { title: "جلسات آینده", url: "/calendar", name: "calendar" },
         { title: "اخبار", url: "/news", name: "news" },
