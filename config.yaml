@@ -22,22 +22,20 @@ params:
         { title: "موضوعات", url: "/topics", name: "topics" },
         { title: "ارائه دهندگان", url: "/speakers", name: "speakers" },
         { title: "تصاویر", url: "/images", name: "images" },
+        { title: "انجمن (جدید)", url: "https://forum.tehlug.org", name: "forum" },
       ]
 
   footer:
     items:
       [
-        { title: "پرسش‌های پر تکرار", url: "/faq" },
-        { title: "لیست پستی", url: "/maillist" },
-        { title: "لاگ‌های دیگر", url: "https://lugs.ir/" },
-        { title: "آرشیو", url: "https://archive.org/details/@tehlug" },
+        { title: "پرسش‌های پرتکرار", url: "/faq" },
+        { title: "بایگانی", url: "https://archive.org/details/@tehlug" },
         { title: "گیت‌هاب", url: "https://github.com/tehlug" },
         { title: "ترلو", url: "https://trello.com/tehlug" },
-        { title: "گفت‌وگوی زنده", url: "irc://irc.freenode.org/tehlug" },
         { title: "تلگرام", url: "https://t.me/TehranLUG" },
         { title: "ماستادون", url: "https://mastodon.social/@tehlug/" },
         { title: "توییتر", url: "https://twitter.com/tehlug" },
-        { title: "اینستاگرام", url: "https://instagram.com/tehlug" },
+        { title: "اینستاگرم", url: "https://instagram.com/tehlug" },
         { title: "ایوند", url: "https://evand.com/tehlug" },
       ]
 
