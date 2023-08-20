@@ -34,7 +34,7 @@ params:
         { title: "گیت‌هاب", url: "https://github.com/tehlug" },
         { title: "ترلو", url: "https://trello.com/tehlug" },
         { title: "تلگرام", url: "https://t.me/TehranLUG" },
-        { title: "ماستودون", url: "https://mastodon.social/@tehlug/", rel: "me"},
+        { title: "ماستودون", url: "https://mastodon.social/@tehlug", rel: "me"},
         { title: "توییتر", url: "https://twitter.com/tehlug" },
         { title: "اینستاگرم", url: "https://instagram.com/tehlug" },
         { title: "ایوند", url: "https://evand.com/tehlug" },
