@@ -1,3 +1,2 @@
 # Tehlug Site
-
-![github pages](https://github.com/tehlug/Tehlug-Site/workflows/github%20pages/badge.svg)
+![Hugo workflow](https://github.com/tehlug/Tehlug-Site/actions/workflows/.github/workflows/hugo.yml/badge.svg)
